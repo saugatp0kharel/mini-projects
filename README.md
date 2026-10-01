@@ -6,6 +6,8 @@ A collection of practical Python, AI, and web development mini projects. Each pr
 | --- | --- | --- |
 | [DataCheck](datacheck/) | Inspect CSV files for missing values, duplicate records, and whitespace; download a cleaned CSV and quality report. | Python, HTML, CSS, JavaScript |
 
+| [LogLens](loglens/) | Inspect server logs, group repeated errors, search by severity, and export debugging summaries. | Python, HTML, CSS, JavaScript |
+
 ## Run DataCheck
 
 ```bash
@@ -17,3 +19,12 @@ python3 app.py
 Open http://localhost:8000 and click **Try demo**. No external packages or API keys required.
 
 See the [DataCheck README](datacheck/README.md) for features, tests, and limitations.
+
+## Run LogLens
+
+```bash
+cd loglens
+python3 app.py
+```
+
+From the repository root, run the commands above. Open http://localhost:8001 and click **Try demo**. See the [LogLens README](loglens/README.md) for supported log formats, tests, and limitations.
