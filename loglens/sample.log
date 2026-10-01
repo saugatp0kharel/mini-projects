@@ -1,0 +1,16 @@
+2026-10-01 09:00:00 INFO Application started
+2026-10-01 09:00:01 DEBUG Loading configuration
+2026-10-01 09:00:02 INFO Server listening on port 3000
+2026-10-01 09:01:00 ERROR Database connection failed
+2026-10-01 09:01:01 WARNING Retrying database connection
+2026-10-01 09:01:02 ERROR Database connection failed
+2026-10-01 09:02:00 INFO Health check completed
+2026-10-01 09:03:00 ERROR Payment service timeout
+2026-10-01 09:03:01 WARN Slow response from payment service
+2026-10-01 09:04:00 ERROR Database connection failed
+2026-10-01 09:04:01 DEBUG Retry count: 3
+2026-10-01 09:05:00 INFO Background job completed
+2026-10-01 09:06:00 ERROR Payment service timeout
+2026-10-01 09:06:01 WARNING Request queue growing
+2026-10-01 09:07:00 INFO Request handled successfully
+Traceback continuation without a severity prefix
