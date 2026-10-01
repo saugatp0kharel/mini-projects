@@ -1,0 +1,7 @@
+name,age,city,income
+Alice,24,Dallas,55000
+Bob,,Seattle,62000
+ Alice ,24,Dallas,55000
+Carol,29, ,71000
+David,31,Texarkana,
+Eve,26,Austin,68000
